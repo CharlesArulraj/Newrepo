@@ -23,6 +23,7 @@ public class Sorting {
 			{
 				min=arr[i];
 			}
+			System.out.print("New Pull Request");
 		}
 		System.out.print(min);
 
